@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Epilogue;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.time{
+  height: 50%;
+  width: 20%;
+  aspect-ratio: 1/1;
+  border: 2px solid white;
+  box-shadow: 0px 1px 4px 4px;
+  padding: 1rem;
+  margin: 2rem;
+  border-radius: 2rem;
+  text-align: center;
+  padding-top: 10rem;}
+  span{
+    font-size: 6rem;
+    color: white;
+  }
+  .timer{
+    height: 50%;
+    width: 20%;
+    aspect-ratio: 1/1;
+    border: 2px solid white;
+    box-shadow: 0px 1px 4px 4px;
+    padding: 1rem;
+    margin: 2rem;
+    border-radius: 2rem;
+    text-align: center;
+    padding-top: 10rem;
+  }
+  
+    
+
+
+
+   
+  
